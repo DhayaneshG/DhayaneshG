@@ -32,8 +32,7 @@
     <td><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a></td>
   </tr>
-
-  <tr>
+      <tr>
     <td><a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/></a></td>
     <td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a></td>
     <td><a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a></td>
@@ -48,6 +47,19 @@
   </tr>
 </table>
 </p>
+
+<p>
+<ul>
+  <li>Programming Languages</li>
+  <ul>
+    <li>C</li>
+    <li>Java</li>
+    <li>Python</li>
+  </ul>
+</ul>
+</p>
+
+
 
 
 ## Projects - showcase
