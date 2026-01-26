@@ -18,8 +18,10 @@
          alt="Gmail"
          width="18"
          height="18"
-         style="filter: invert(1);" />
-    <span>dhayaneshgandhi@gmail.com</span>
+         style="filter: invert(1);"/>
+    <span style="text-decoration:none;">
+      dhayaneshgandhi@gmail.com
+    </span>
   </a>
 </p>
 
