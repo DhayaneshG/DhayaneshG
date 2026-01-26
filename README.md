@@ -4,12 +4,12 @@
 <p>
   
 - <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gmail" width="18" height="18" style="margin-right:20px;" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="18" height="18"  />
   </a>
     &nbsp;
-  <span>
-      dhayaneshgandhi@gmail.com
-    </span>
+  <a href="mailto:dhayaneshgandhi@gmail.com">
+    dhayaneshgandhi@gmail.com
+  </a>
 - <a href="https://skillicons.dev" >
     <img src="https://skillicons.dev/icons?i=linkedin" width="18" height="18" />
     <span>
