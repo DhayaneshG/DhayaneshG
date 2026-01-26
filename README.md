@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dhayanesh G</h1>
 <h3 align="left">Connect with me:</h3>
+<a href="https://mail.google.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/google_gmail/google_gmail-icon.svg"
+       alt="gmail"
+       width="40"
+       height="40"/>
+</a>
 <p align="left">
 </p>
 
