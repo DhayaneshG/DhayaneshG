@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhayanesh G</h1>
+      <img src="https://github.com/user-attachments/assets/1dbc307a-e1e2-4fda-9161-5a138a0ed712"/>
+
 <h2 align="center">Connect</h2>
 <p>
   
