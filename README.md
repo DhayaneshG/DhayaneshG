@@ -3,19 +3,21 @@
 
 <p>
   
-- <a href="https://skillicons.dev">
+- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dhayaneshgandhi@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="18" height="18"  />
   </a>
     &nbsp;
-  <a href="mailto:dhayaneshgandhi@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dhayaneshgandhi@gmail.com">
     dhayaneshgandhi@gmail.com
   </a>
-- <a href="https://skillicons.dev" >
-    <img src="https://skillicons.dev/icons?i=linkedin" width="18" height="18" />
-    <span>
-      dhayaneshgandhi@gmail.com
-    </span>
-</a>
+- <a href="https://www.linkedin.com/in/dhayanesh-g">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="18" height="18"  />
+  </a>
+    &nbsp;
+  <a href="https://www.linkedin.com/in/dhayanesh-g">
+    dhayanesh-g
+  </a>
+
 </p>
 
 
