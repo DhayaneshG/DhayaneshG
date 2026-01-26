@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Dhayanesh G</h1>
 <h3 align="left">Connect with me:</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dhayanesh@gmail.com"
-     target="_blank" rel="noreferrer"
-     style="text-decoration:none; color:white; font-size:16px;">
-    dhayanesgandhi@gmail.com
-  </a>
-  <p align="left">
+
+<p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dhayaneshgandhi@gmail.com"
      target="_blank" rel="noreferrer"
-     style="display:inline-flex; align-items:center; gap:10px; text-decoration:none;">  
-    <img src="https://img.icons8.com/color/48/gmail-new.png"
+     style="
+       display:inline-flex;
+       align-items:center;
+       gap:8px;
+       text-decoration:none;
+       color:#c9d1d9;
+       font-size:16px;
+       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
+                    Helvetica, Arial, sans-serif;
+     ">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg"
          alt="Gmail"
-         width="40"
-         height="40"/>
-    <span style="color:#58a6ff; font-size:16px;">
-      dhayaneshgandhi@gmail.com
-    </span>
+         width="18"
+         height="18"
+         style="filter: invert(1);" />
   </a>
 </p>
 
