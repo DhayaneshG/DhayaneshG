@@ -9,7 +9,7 @@
        align-items:center;
        gap:8px;
        text-decoration:none;
-       color:#c9d1d9;
+       color:#ffffff;
        font-size:16px;
        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
                     Helvetica, Arial, sans-serif;
@@ -19,6 +19,7 @@
          width="18"
          height="18"
          style="filter: invert(1);" />
+    <span>dhayaneshgandhi@gmail.com</span>
   </a>
 </p>
 
