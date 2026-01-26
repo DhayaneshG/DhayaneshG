@@ -22,46 +22,72 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<table>
-  <tr>
-    <td><a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a></td>
-  </tr>
-      <tr>
-    <td><a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/></a></td>
-    <td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td><a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a></td>
-     <td><a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a></td>
-  </tr>
-
-  <tr>
-    <td><a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a></td>
-    <td><a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a></td>
-  </tr>
-</table>
-</p>
 
 <p>
+  
 <ul>
   <li><span>Programming Languages </span>
 <p></p>
   <table>
   <tr>
-    <td><a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a></td>
+    <td><img src="https://skillicons.dev/icons?i=java"/></td>
+    <td><img src="https://skillicons.dev/icons?i=python"/></td>
+    <td><img src="https://skillicons.dev/icons?i=c"/></td>
   </tr></table>
  </li>
+
+  <li><span>Web Technologies </span>
+<p></p>
+  <table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=html"/></td>
+    <td><img src="https://skillicons.dev/icons?i=css"/></td>
+    <td><img src="https://skillicons.dev/icons?i=javascript"/></td>
+    <td><img src="https://skillicons.dev/icons?i=firebase"/></td>
+  </tr></table>
+ </li>
+
+<li><span>Embedded Systems & IoT</span>
+<p></p>
+  <table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=arduino"/></td>
+    <td><img src="https://skillicons.dev/icons?i=matlab"/></td>
+  </tr></table>
+ </li>
+
+<li><span>Machine Learning & AI</span>
+<p></p>
+  <table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=tensorflow"/></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch"/></td>
+    <td><img src="https://skillicons.dev/icons?i=scikitlearn"/></td>
+    <td><img src="https://skillicons.dev/icons?i=opencv"/></td>
+  </tr></table>
+ </li>
+
+  <li><span>Databases</span>
+<p></p>
+  <table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=mysql"/></td>
+    <td><img src="https://skillicons.dev/icons?i=postgresql"/></td>
+    <td><img src="https://skillicons.dev/icons?i=firebase"/></td>
+  </tr></table>
+ </li>
+
+<li><span>Tools & Platforms</span>
+<p></p>
+  <table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=github"/></td>
+    <td><img src="https://skillicons.dev/icons?i=git"/></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode"/></td>
+    <td><img src="https://skillicons.dev/icons?i=matlab"/></td>
+  </tr></table>
+ </li>
+ 
 </ul>
 </p>
 
