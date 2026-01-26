@@ -1,28 +1,24 @@
 <h1 align="center">Hi 👋, I'm Dhayanesh G</h1>
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
+<p align="left" style="display:flex; align-items:center; gap:8px; color:white;">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dhayaneshgandhi@gmail.com"
-     target="_blank" rel="noreferrer"
-     style="
-       display:inline-flex;
-       align-items:center;
-       gap:8px;
-       text-decoration:none;
-       color:#ffffff;
-       font-size:16px;
-       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
-                    Helvetica, Arial, sans-serif;
-     ">
+     target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg"
          alt="Gmail"
          width="18"
          height="18"
-         style="filter: invert(1);"/>
-    <span style="text-decoration:none;">
-      dhayaneshgandhi@gmail.com
-    </span>
+         style="filter: invert(1);" />
   </a>
+  <span style="
+    color:#ffffff;
+    font-size:16px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI',
+                 Helvetica, Arial, sans-serif;
+  ">
+    dhayaneshgandhi@gmail.com
+  </span>
+
 </p>
 
 
