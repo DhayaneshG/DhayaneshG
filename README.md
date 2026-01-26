@@ -23,20 +23,19 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+
 <p>
-  
-<ul>
-  <li><span>Programming Languages </span>
+<table>
+<tr>
+<td align="center" width="50%"><span>Programming Languages </span>
 <p></p>
   <table>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=java"/></td>
     <td><img src="https://skillicons.dev/icons?i=python"/></td>
     <td><img src="https://skillicons.dev/icons?i=c"/></td>
-  </tr></table>
- </li>
-
-  <li><span>Web Technologies </span>
+  </tr></table></td>
+<td align="center" width="50%"><span>Web Technologies </span>
 <p></p>
   <table>
   <tr>
@@ -44,19 +43,17 @@
     <td><img src="https://skillicons.dev/icons?i=css"/></td>
     <td><img src="https://skillicons.dev/icons?i=javascript"/></td>
     <td><img src="https://skillicons.dev/icons?i=firebase"/></td>
-  </tr></table>
- </li>
-
-<li><span>Embedded Systems & IoT</span>
+  </tr></table></td>
+</tr>
+<tr>
+<td align="center" width="50%"><span>Embedded Systems & IoT</span>
 <p></p>
   <table>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=arduino"/></td>
     <td><img src="https://skillicons.dev/icons?i=matlab"/></td>
-  </tr></table>
- </li>
-
-<li><span>Machine Learning & AI</span>
+  </tr></table></td>
+<td align="center" width="50%"><span>Machine Learning & AI</span>
 <p></p>
   <table>
   <tr>
@@ -64,20 +61,18 @@
     <td><img src="https://skillicons.dev/icons?i=pytorch"/></td>
     <td><img src="https://skillicons.dev/icons?i=scikitlearn"/></td>
     <td><img src="https://skillicons.dev/icons?i=opencv"/></td>
-  </tr></table>
- </li>
-
-  <li><span>Databases</span>
+  </tr></table></td>
+</tr>
+<tr>
+<td align="center" width="50%"><span>Databases</span>
 <p></p>
   <table>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=mysql"/></td>
     <td><img src="https://skillicons.dev/icons?i=postgresql"/></td>
     <td><img src="https://skillicons.dev/icons?i=firebase"/></td>
-  </tr></table>
- </li>
-
-<li><span>Tools & Platforms</span>
+  </tr></table></td>
+<td align="center" width="50%"><span>Tools & Platforms</span>
 <p></p>
   <table>
   <tr>
@@ -85,13 +80,10 @@
     <td><img src="https://skillicons.dev/icons?i=git"/></td>
     <td><img src="https://skillicons.dev/icons?i=vscode"/></td>
     <td><img src="https://skillicons.dev/icons?i=matlab"/></td>
-  </tr></table>
- </li>
- 
-</ul>
+  </tr></table></td>
+</tr>
+</table>
 </p>
-
-
 
 
 ## Projects - showcase
