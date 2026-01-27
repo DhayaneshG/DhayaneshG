@@ -1,7 +1,7 @@
 <table align="center" width="1000%">
 <tr>
 <td>
-    <img src="https://github.com/DhayaneshG/DhayaneshG/blob/main/hello.gif" width="500">
+    <img src="https://github.com/DhayaneshG/DhayaneshG/blob/main/hello.gif" width="500" />
 </td>
 <td>
     <h1 align="center">I'm Dhayanesh G</h1>
