@@ -1,4 +1,4 @@
-  <img src="https://github.com/user-attachments/assets/1dbc307a-e1e2-4fda-9161-5a138a0ed722" width="500">
+  <img src="https://github.com/DhayaneshG/DhayaneshG/blob/main/hello.gif" width="500">
   
 <h1 align="center">Hi 👋, I'm Dhayanesh G</h1>
 <p align="center">
