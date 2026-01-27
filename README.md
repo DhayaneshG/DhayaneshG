@@ -1,10 +1,11 @@
-  <img src="https://github.com/DhayaneshG/DhayaneshG/blob/main/hello.gif" width="500">
-  
-<h1 align="center">Hi 👋, I'm Dhayanesh G</h1>
-<p align="center">
-</p>
-<h2 align="center">Connect</h2>
-<p>
+<table align="center" width="1000%">
+<tr>
+<td>
+    <img src="https://github.com/DhayaneshG/DhayaneshG/blob/main/hello.gif" width="500">
+</td>
+<td>
+    <h1 align="center">Hi 👋, I'm Dhayanesh G</h1>
+  <p>
   
 - <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dhayaneshgandhi@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="18" height="18"  />
@@ -22,7 +23,8 @@
   </a>
 
 </p>
-
+</td>
+  </tr></table>
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
