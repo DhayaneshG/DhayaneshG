@@ -5,6 +5,9 @@
 </td>
 <td>
     <h1 align="center">I'm Dhayanesh G</h1>
+    <b align="center">Turning ideas into real-world solutions using code and electronics.
+Interested in embedded systems, IoT, and project-driven learning.
+Always exploring, building, and improving through hands-on engineering.</b>
   <p>
   
 - <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dhayaneshgandhi@gmail.com">
