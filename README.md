@@ -4,7 +4,7 @@
     <img src="https://github.com/DhayaneshG/DhayaneshG/blob/main/hello.gif" width="500">
 </td>
 <td>
-    <h1 align="center">Hi 👋, I'm Dhayanesh G</h1>
+    <h1 align="center">I'm Dhayanesh G</h1>
   <p>
   
 - <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dhayaneshgandhi@gmail.com">
