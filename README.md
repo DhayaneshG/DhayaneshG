@@ -122,9 +122,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/DhayaneshG/HydroIQ.git">
-        <img src="https://github.com/user-attachments/assets/15ba02d3-8f0f-4a94-bdcc-85a16459e6c8"
-             alt="HydroIQ"
-             style="width:100%; height:200px; object-fit:cover;"/>
+        <img src="https://github.com/user-attachments/assets/55c9bf12-2788-4d06-bbc7-6d8b1a1c0e63" />
       </a>
       <br/>
       <b>HydroIQ</b><br/>
